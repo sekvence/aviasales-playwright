@@ -28,7 +28,7 @@ jobs:
       - name: Run tests 01
         run: npx playwright test tests/01 --project=chromium
 
-      - name: Pause between test groups
+      - name: Wait before tests 02
         run: sleep 30
 
       - name: Run tests 02
