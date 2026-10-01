@@ -140,7 +140,7 @@ Workflow находится в:
 
 **Allure-тест**
 
-![Allure Report-01](docs/images/Allure-test.png)
+![Allure test](docs/images/Allure-test.png)
 
 **Playwright-тест**
 
