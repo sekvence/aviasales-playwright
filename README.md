@@ -134,21 +134,23 @@ Workflow находится в:
 
 ### Примеры
 
-**Allure Report**
+**Allure Report 01-02**
 
-![Allure Report-01](docs/images/Allure-01.png)![Allure Report-02](docs/images/Allure-02)
+![Allure Report-01](./docs/images/Allure-01.PNG)
 
-**Allure-тест**
+![Allure Report-02](./docs/images/Allure-02.PNG)
 
-![Allure test](docs/images/Allure-test.png)
+**Allure-тест-пример**
 
-**Playwright-тест**
+![Allure test](./docs/images/Allure-test.PNG)
 
-![Playwright test](docs/images/test.png)
+**Playwright-тест-пример**
+
+![Playwright test](./docs/images/test.PNG)
 
 **GitHub Actions**
 
-![GitHub Actions](docs/images/github-actions.png)
+![GitHub Actions](./docs/images/github-actions.PNG)
 
 ### Запуск локально
 
