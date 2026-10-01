@@ -37,6 +37,9 @@ jobs:
       - name: Run travel class tests
         run: npx playwright test tests/01/travel-class.spec.ts --project=chromium --workers=1
 
+      - name: Wait before group 02
+        run: sleep 30
+        
       - name: Run filters tests
         run: npx playwright test tests/02/filters.spec.ts --project=chromium --workers=1
 
